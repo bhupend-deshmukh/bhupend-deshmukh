@@ -12,10 +12,8 @@
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 ✔ Callme: ***Bhupendra Deshmukh*** or ***TeamWorker*** 😊 <br>
-<!-- ✔ 🔭 I’m currently working on [Meraki](https://github.com/navgurukul/sansaar)<br> -->
 ✔ 🌱 I’m currently learning **everything 🤣**<br>
 ✔ 👨‍💻 All of my projects are available at [https://github.com/bhupend-deshmukh](https://github.com/bhupend-deshmukh)<br>
-<!-- ✔ 📝 I regularly write articles on [https://medium.com/@vishalmajumdar95](https://medium.com/@vishalmajumdar95)<br> -->
 ✔ 📫 How to reach me **bhupendra20@navgurukul.org**<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
