@@ -1,5 +1,5 @@
 
-<p align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <img src="https://komarev.com/ghpvc/?username=Rajkumar-coderm&label=Profile%20views&color=0e75b6&style=flat" alt="Rajkumar-coderm" /> </p>
+<p align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <img src="https://komarev.com/ghpvc/?username=Rajkumar-coderm&label=Profile%20views&color=0e75b6&style=flat" alt="bhupend-deshmukh" /> </p>
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
@@ -11,12 +11,12 @@
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
-✔ Callme: ***Rajkumar Gahane*** or ***TeamWorker*** 😊 <br>
+✔ Callme: ***Bhupendra Deshmukh*** or ***TeamWorker*** 😊 <br>
 <!-- ✔ 🔭 I’m currently working on [Meraki](https://github.com/navgurukul/sansaar)<br> -->
 ✔ 🌱 I’m currently learning **everything 🤣**<br>
-✔ 👨‍💻 All of my projects are available at [https://github.com/Rajkumar-coderm](https://github.com/Rajkumar-coderm)<br>
+✔ 👨‍💻 All of my projects are available at [https://github.com/Rajkumar-coderm](https://github.com/bhupend-deshmukh)<br>
 <!-- ✔ 📝 I regularly write articles on [https://medium.com/@vishalmajumdar95](https://medium.com/@vishalmajumdar95)<br> -->
-✔ 📫 How to reach me **rajkumar20@navgurukul.org**<br>
+✔ 📫 How to reach me **bhupendra20@navgurukul.org**<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -128,7 +128,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Let's Connect ....***
 <p align="center">
 	<a href="https://www.facebook.com/rajkumar.gahane2001"><img src="https://img.icons8.com/bubbles/50/000000/facebook.png" alt="Facebook"/></a>
-	<a href="linkedin.com/in/rajkumar-gahane-4354021b7"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/i.rajkumargahane/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://twitter.com/RajkumarGahane?t=7p4vHTozT2tDbWNempsAvA&s=08"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+	<a href="https://www.linkedin.com/in/bhupendra-deshmukh-7a157621b/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/bhupend_deshmukh/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://twitter.com/Bhupendra-Deshmukh?t=7p4vHTozT2tDbWNempsAvA&s=08"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
