@@ -82,19 +82,7 @@
         <img src="https://toppng.com//public/uploads/preview/bootstrap-featured-image-bootstrap-3-logo-11563293130teouf93qpu.png" width="40"/>
       </a>
       <br>Bootstrap
-    </td>
-     <td align="center" width="96">
-      <a>
-        <img src="https://images.ctfassets.net/lpjm8d10rkpy/6GIrtBy1QABNIFNcnyKxo1/8e651d482fe0e350280991535b171582/aws.svg" width="40"/>
-      </a>
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40"/>
-      </a>
-      <br>Heroku
-    </td>
+    </td>   
   </tr>
 </table>
 <br>
